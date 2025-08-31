@@ -47,6 +47,9 @@ The objective is to extract **meaningful insights** into purchasing trends and c
 
 ✅ **Q&A Feature** – AI-powered queries like:  
    - "Average Age of Students"  
-   - "Donut chart of purchases by Store Location"  
+   - "Donut chart of purchases by Store Location"
+## Dashboard
+
+<img width="829" height="578" alt="dashboard 1" src="https://github.com/user-attachments/assets/41a4b537-2432-427a-8eb5-fa48b3efd64c" />
 
 ---
